@@ -59,7 +59,7 @@ Esta conformada por una:
 ## Código del archivo de css
 ---
 ```` css
-/*Se colocará un estilo de funte a todo el body*/
+/*Se colocará un estilo de fuente a todo el body*/
 body {
 font-family: sans-serif;
 }

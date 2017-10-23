@@ -1,0 +1,53 @@
+  /*Se colocará un estilo de funte a todo el body*/
+body {
+  font-family: sans-serif;
+}
+
+nav {
+  /*outline: 1px solid yellow;*/
+  width: 20rem;
+
+}
+
+ ul {
+  /*outline: 1px solid yellow;*/
+  margin: 0;
+  padding: 0;
+  background-color: rgba(109, 111, 109, 0.09); /* fondo plomo*/
+  display: block;
+  list-style: none; /* quita las viñetas*/
+  line-height: 3rem; /* da espaciado*/
+}
+
+ul li:first-child {
+  background: rgb(249, 148, 15); /* fondo de la primera lista, anaranjado*/
+}
+ul li:first-child a {
+  color: rgba(255, 255, 255, 0.99); /* blanco*/
+}
+
+ul li:first-child a:hover {
+  color: rgba(9, 9, 9, 0.99); /* negro*/
+}
+ul li:first-child a:active {
+  color: rgba(247, 244, 244, 0.99); /* blanco*/
+}
+
+ a {
+  color: rgb(9, 9, 9); /* letter black*/
+  text-decoration: none; /* quita el  subrayado de los link*/
+  padding-left: 2rem;
+  display: block;
+ }
+/*seudocodigo */
+/* Usando hover para dar efecto*/
+a:Hover {
+  background: rgb(230, 234, 235); /* plomo*/
+
+  }
+  /*seudocodigo va siempre con dos puntos*/
+  /* Usando Active para dar efecto*/
+a:active {
+   background:  rgb(1, 6, 8); /* negro*/
+   color: rgb(255, 255, 255); /* blanco*/
+    }

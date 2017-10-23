@@ -2,7 +2,7 @@
 
 La tecnología es una herramienta muy importante para la comunicación entre personas, por ello la población a nivel mundial utilizan las famosas **redes sociales**. Aquellas que nos permiten romper la barreras de la distancia. ¿Pero por qué hablamos de ello? y ¿Qué tiene que ver con el tema principal?
 Pues hay una barra muy importante que encontramos en cualquier red social o página, y son las barras de menú.
-Nosotros veremos como podemos realizar una barra  dinámica, esto  permite una mejor navegación en cualquier página, ya que podemos encontrar diversidad de información en ella.
+Nosotros veremos como podemos realizar una barra  dinámica, esto  permite una mejor navegación en cualquier página, en donde podemos encontrar diversidad de información en ella.
 
 ## Objetivos
 * Realizar con exactitud un menú vertical.

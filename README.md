@@ -1,11 +1,11 @@
 # **Menú Vertical**
 
-La tecnología es una herramienta muy importante para la comunicación entre personas, por eso la poblacion a nivel mundial utilizan las famosas **redes sociales**. Aquellas que nos permiten romper la barreras de la distancia. ¿Pero por qué hablamos de ello? y ¿Qué tiene que ver con el tema princiapal?
-Pues hay una barra muy importante en cualquier red social, y son las barras de menú.
-Nosotros veremos como podemos realizar una barra  dinámica, esto que permite una mejor navegacion por cualquier pagina, ya que podemos encontrar diversidad de informacion en ella.
+La tecnología es una herramienta muy importante para la comunicación entre personas, por ello la población a nivel mundial utilizan las famosas **redes sociales**. Aquellas que nos permiten romper la barreras de la distancia. ¿Pero por qué hablamos de ello? y ¿Qué tiene que ver con el tema principal?
+Pues hay una barra muy importante que encontramos en cualquier red social o página, y son las barras de menú.
+Nosotros veremos como podemos realizar una barra  dinámica, esto  permite una mejor navegación en cualquier página, ya que podemos encontrar diversidad de información en ella.
 
 ## Objetivos
-* Realizar con exactitud un menu vertical.
+* Realizar con exactitud un menú vertical.
 * Manejar las distintas propiedades.
 * Manejar las seudoclases.
 * Colocar color .
@@ -13,7 +13,7 @@ Nosotros veremos como podemos realizar una barra  dinámica, esto que permite un
 
 ***
 ## Modelo
-Para poder realizar este trabajo se mostrara el modelo a replicar.
+Para poder realizar este trabajo se mostrará el modelo a replicar.
 
 [Menú Vetical](https://fotos.subefotos.com/3b523ebdaaa3e207adb555eaa26b8351o.gif)
 

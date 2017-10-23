@@ -1,4 +1,4 @@
-  /*Se colocará un estilo de funte a todo el body*/
+  /*Se colocará un estilo de fuente a todo el body*/
 body {
   font-family: sans-serif;
 }
@@ -39,13 +39,13 @@ ul li:first-child a:active {
   padding-left: 2rem;
   display: block;
  }
-/*seudocodigo */
+/*seudoclase */
 /* Usando hover para dar efecto*/
 a:Hover {
   background: rgb(230, 234, 235); /* plomo*/
 
   }
-  /*seudocodigo va siempre con dos puntos*/
+  /*seudoclase va siempre con dos puntos*/
   /* Usando Active para dar efecto*/
 a:active {
    background:  rgb(1, 6, 8); /* negro*/
